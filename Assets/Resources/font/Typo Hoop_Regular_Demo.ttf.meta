@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b584795a7b174b97b249a1297f0ed15e
+timeCreated: 1542625279
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 'Typo Hoop_Regular_Demo'
+  fontNames:
+  - Typo Hoop Demo
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

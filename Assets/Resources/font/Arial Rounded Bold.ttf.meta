@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8f89de57bb4f420eb5cc41233cd35aa5
+timeCreated: 1542625279
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 72
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 'Arial Rounded Bold'
+  fontNames:
+  - Arial Rounded MT Bold
+  - Arial Rounded Bold
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

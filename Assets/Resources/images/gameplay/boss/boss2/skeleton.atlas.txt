@@ -1,0 +1,227 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1x/Asset 119
+  rotate: false
+  xy: 806, 820
+  size: 128, 129
+  orig: 128, 129
+  offset: 0, 0
+  index: -1
+1x/Asset 120
+  rotate: false
+  xy: 806, 640
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+1x/Asset 199
+  rotate: false
+  xy: 936, 879
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+Layer-2-copy
+  rotate: false
+  xy: 806, 714
+  size: 114, 104
+  orig: 114, 104
+  offset: 0, 0
+  index: -1
+Layer-3-copy
+  rotate: false
+  xy: 486, 102
+  size: 130, 104
+  orig: 130, 104
+  offset: 0, 0
+  index: -1
+boss1_fx/Comp 2/explosion_00000
+  rotate: false
+  xy: 755, 158
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+boss1_fx/Comp 2/explosion_00002
+  rotate: false
+  xy: 2, 610
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+boss1_fx/Comp 2/explosion_00003
+  rotate: false
+  xy: 2, 208
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+boss1_fx/Comp 2/explosion_00004
+  rotate: false
+  xy: 404, 610
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+boss1_fx/Comp 2/explosion_00005
+  rotate: false
+  xy: 404, 208
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+m2_angry
+  rotate: false
+  xy: 109, 14
+  size: 100, 33
+  orig: 100, 33
+  offset: 0, 0
+  index: -1
+m2_droopy
+  rotate: false
+  xy: 618, 132
+  size: 135, 74
+  orig: 135, 74
+  offset: 0, 0
+  index: -1
+m2_eye
+  rotate: false
+  xy: 356, 69
+  size: 128, 137
+  orig: 128, 137
+  offset: 0, 0
+  index: -1
+m2_lower
+  rotate: false
+  xy: 2, 49
+  size: 352, 157
+  orig: 352, 157
+  offset: 0, 0
+  index: -1
+m2_lower_1
+  rotate: false
+  xy: 2, 2
+  size: 105, 45
+  orig: 105, 45
+  offset: 0, 0
+  index: -1
+m2_teeth
+  rotate: false
+  xy: 806, 951
+  size: 215, 59
+  orig: 215, 59
+  offset: 0, 0
+  index: -1
+pupil
+  rotate: true
+  xy: 356, 51
+  size: 16, 43
+  orig: 16, 43
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss1_fx/Comp 2/explosion_00006
+  rotate: false
+  xy: 2, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+boss1_fx/Comp 2/explosion_00007
+  rotate: false
+  xy: 2, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+boss1_fx/Comp 2/explosion_00008
+  rotate: false
+  xy: 404, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+boss1_fx/Comp 2/explosion_00009
+  rotate: false
+  xy: 404, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+
+skeleton3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss1_fx/Comp 2/explosion_00010
+  rotate: false
+  xy: 2, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+boss1_fx/Comp 2/explosion_00011
+  rotate: false
+  xy: 2, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+boss1_fx/Comp 2/explosion_00012
+  rotate: false
+  xy: 404, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+boss1_fx/Comp 2/explosion_00013
+  rotate: false
+  xy: 404, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+
+skeleton4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss1_fx/Comp 2/explosion_00001
+  rotate: false
+  xy: 404, 420
+  size: 400, 384
+  orig: 400, 384
+  offset: 0, 0
+  index: -1
+boss1_fx/Comp 2/explosion_00014
+  rotate: false
+  xy: 2, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+boss1_fx/Comp 2/explosion_00015
+  rotate: false
+  xy: 2, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+m2_upper
+  rotate: false
+  xy: 404, 173
+  size: 353, 245
+  orig: 353, 245
+  offset: 0, 0
+  index: -1

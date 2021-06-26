@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 32cf07c50d9f40258379a664929a391f
+timeCreated: 1542625279
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 'Mont-HeavyDEMO'
+  fontNames:
+  - Mont
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

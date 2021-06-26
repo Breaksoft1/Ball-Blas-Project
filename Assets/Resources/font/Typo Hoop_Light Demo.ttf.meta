@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 935f1cc0caec40ae9579906e514a3c6a
+timeCreated: 1542625275
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 'Typo Hoop_Light Demo'
+  fontNames:
+  - Typo Hoop Light Demo
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

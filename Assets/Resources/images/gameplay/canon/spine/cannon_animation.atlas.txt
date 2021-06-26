@@ -1,0 +1,293 @@
+
+cannon_animation.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 638, 93
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 908, 111
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 230, 61
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 174, 59
+  size: 54, 46
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 959, 110
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+Arm
+  rotate: true
+  xy: 1004, 228
+  size: 26, 10
+  orig: 26, 10
+  offset: 0, 0
+  index: -1
+Layer-2
+  rotate: false
+  xy: 767, 88
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Layer-3
+  rotate: false
+  xy: 767, 88
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+bombgun/gun
+  rotate: false
+  xy: 456, 122
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+bombgun/nong
+  rotate: true
+  xy: 683, 87
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+bombgun/poionter
+  rotate: false
+  xy: 355, 72
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+bombgun/rocket
+  rotate: false
+  xy: 325, 63
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+bombgun/wheel_l
+  rotate: false
+  xy: 235, 16
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+bombgun/wheel_r
+  rotate: false
+  xy: 280, 17
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+cannon_02
+  rotate: false
+  xy: 114, 29
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+laserGun/Circle
+  rotate: false
+  xy: 325, 2
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+laserGun/Laser02_body
+  rotate: false
+  xy: 257, 118
+  size: 95, 84
+  orig: 95, 84
+  offset: 0, 0
+  index: -1
+laserGun/Laser02_gun
+  rotate: true
+  xy: 174, 23
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+laserGun/Laser02_wheel
+  rotate: false
+  xy: 355, 88
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+laserGun/laser01
+  rotate: true
+  xy: 2, 230
+  size: 24, 1000
+  orig: 24, 1000
+  offset: 0, 0
+  index: -1
+laserGun/laser01_body
+  rotate: true
+  xy: 818, 130
+  size: 72, 88
+  orig: 72, 88
+  offset: 0, 0
+  index: -1
+laserGun/laser01_gun
+  rotate: true
+  xy: 114, 12
+  size: 15, 58
+  orig: 15, 58
+  offset: 0, 0
+  index: -1
+laserGun/laser01_wheel
+  rotate: false
+  xy: 362, 22
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+laserGun/laser02
+  rotate: true
+  xy: 2, 204
+  size: 24, 1000
+  orig: 24, 1000
+  offset: 0, 0
+  index: -1
+normalGun/Cannon_04
+  rotate: true
+  xy: 638, 126
+  size: 76, 89
+  orig: 76, 89
+  offset: 0, 0
+  index: -1
+normalGun/batcan_body
+  rotate: false
+  xy: 2, 6
+  size: 110, 102
+  orig: 110, 102
+  offset: 0, 0
+  index: -1
+normalGun/batcan_wheel
+  rotate: false
+  xy: 280, 62
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+normalGun/bladecannon_body
+  rotate: false
+  xy: 2, 110
+  size: 136, 92
+  orig: 136, 92
+  offset: 0, 0
+  index: -1
+normalGun/bladecannon_wheel
+  rotate: false
+  xy: 392, 88
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+normalGun/cannon04_wheel
+  rotate: false
+  xy: 805, 89
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+normalGun/cannon_04_armor
+  rotate: false
+  xy: 908, 147
+  size: 99, 55
+  orig: 99, 55
+  offset: 0, 0
+  index: -1
+normalGun/cannon_05
+  rotate: false
+  xy: 548, 115
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+normalGun/cannon_05_wheel
+  rotate: false
+  xy: 842, 93
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+normalGun/gun01_body
+  rotate: true
+  xy: 729, 126
+  size: 76, 87
+  orig: 76, 87
+  offset: 0, 0
+  index: -1
+normalGun/gun01_wheel
+  rotate: false
+  xy: 397, 54
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+normalGun/metal_cannon_body
+  rotate: false
+  xy: 140, 107
+  size: 115, 95
+  orig: 115, 95
+  offset: 0, 0
+  index: -1
+normalGun/metal_cannon_wheel
+  rotate: true
+  xy: 325, 25
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+rocketgun/rocket02_body
+  rotate: false
+  xy: 354, 125
+  size: 100, 77
+  orig: 100, 77
+  offset: 0, 0
+  index: -1
+rocketgun/rocket02_rocket
+  rotate: true
+  xy: 725, 86
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+rocketgun/rocket02_wheel
+  rotate: false
+  xy: 362, 53
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 257, 108
+  size: 74, 8
+  orig: 74, 8
+  offset: 0, 0
+  index: -1
