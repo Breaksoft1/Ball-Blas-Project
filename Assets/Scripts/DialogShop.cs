@@ -8,6 +8,7 @@ public class DialogShop : Popup
 {
 	private void Start()
 	{
+		/*
 		this.ButtonClose.onClick.AddListener(new UnityAction(this.Hide));
 		this.ButtonsPurchase[0].onClick.AddListener(delegate()
 		{
@@ -48,7 +49,7 @@ public class DialogShop : Popup
 		this.ButtonsCombo[4].onClick.AddListener(delegate()
 		{
 			GameController.PurchaseController.BuyProductID(PurchaseController.PackageCombo5);
-		});
+		});*/
 		this.ButtonCoin.onClick.AddListener(delegate()
 		{
 			this.ButtonCoin.GetComponent<Image>().color = new Color(this.ButtonCoin.GetComponent<Image>().color.r, this.ButtonCoin.GetComponent<Image>().color.g, this.ButtonCoin.GetComponent<Image>().color.b, 1f);
@@ -68,7 +69,7 @@ public class DialogShop : Popup
 	public override void Show()
 	{
 		base.Show();
-		for (int i = 0; i < this.TextPrice.Length; i++)
+	/*	for (int i = 0; i < this.TextPrice.Length; i++)
 		{
 			string price = GameController.PurchaseController.GetPrice("ballblast.package.coin." + (i + 1));
 			if (!price.Equals(string.Empty))
@@ -83,7 +84,7 @@ public class DialogShop : Popup
 			{
 				this.TextPriceCombo[j].text = price2;
 			}
-		}
+		}*/
 	}
 
 	private void Update()

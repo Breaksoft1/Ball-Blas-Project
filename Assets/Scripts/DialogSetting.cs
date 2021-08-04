@@ -23,7 +23,7 @@ public class DialogSetting : Popup
 			Preference.Instance.DataGame.IsSound = !Preference.Instance.DataGame.IsSound;
 			this.ImageXSound.GetComponentInChildren<Image>().gameObject.SetActive(!Preference.Instance.DataGame.IsSound);
 		});
-		this.ButtonRestorePurchase.onClick.AddListener(new UnityAction(GameController.PurchaseController.RestorePurchases));
+		//this.ButtonRestorePurchase.onClick.AddListener(new UnityAction(GameController.PurchaseController.RestorePurchases));
 	//	this.ButtonRestorePurchase.gameObject.SetActive(false);
 	}
 

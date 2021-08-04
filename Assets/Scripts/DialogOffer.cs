@@ -8,10 +8,10 @@ public class DialogOffer : Popup
 	private void Start()
 	{
 		this.ButtonClose.onClick.AddListener(new UnityAction(this.Hide));
-		this.ButtonBuy.onClick.AddListener(delegate()
+		/*this.ButtonBuy.onClick.AddListener(delegate()
 		{
 			GameController.PurchaseController.BuyProductID(PurchaseController.PackageOffer1);
-		});
+		});*/
 	}
 
 	private void Update()
@@ -21,6 +21,7 @@ public class DialogOffer : Popup
 	public override void Show()
 	{
 		base.Show();
+		/*
 		string price = GameController.PurchaseController.GetPrice(PurchaseController.PackageOffer1);
 		if (!price.Equals(string.Empty))
 		{
@@ -30,7 +31,7 @@ public class DialogOffer : Popup
 		if (!price.Equals(string.Empty))
 		{
 			this.OldPrice.text = price;
-		}
+		}*/
 	}
 
 	public Button ButtonClose;

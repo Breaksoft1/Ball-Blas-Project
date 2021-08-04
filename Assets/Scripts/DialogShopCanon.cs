@@ -44,16 +44,16 @@ public class DialogShopCanon : Popup
 				switch (this._currentCanonItem.CanonId)
 				{
 				case 3:
-					GameController.PurchaseController.BuyProductID(PurchaseController.PackageCannon3);
+				//	GameController.PurchaseController.BuyProductID(PurchaseController.PackageCannon3);
 					break;
 				case 4:
-					GameController.PurchaseController.BuyProductID(PurchaseController.PackageCannon4);
+					//GameController.PurchaseController.BuyProductID(PurchaseController.PackageCannon4);
 					break;
 				case 5:
-					GameController.PurchaseController.BuyProductID(PurchaseController.PackageCannon5);
+				//	GameController.PurchaseController.BuyProductID(PurchaseController.PackageCannon5);
 					break;
 				case 6:
-					GameController.PurchaseController.BuyProductID(PurchaseController.PackageCannon6);
+					//GameController.PurchaseController.BuyProductID(PurchaseController.PackageCannon6);
 					break;
 				}
 			}
@@ -113,11 +113,11 @@ public class DialogShopCanon : Popup
 			{
 				this.ImageCoin.gameObject.SetActive(false);
 				this.TextPrice.text = this._currentCanonItem.PriceMoney + " USD";
-				string price = GameController.PurchaseController.GetPrice("ballblast.package.cannon." + this._currentCanonItem.CanonId);
+				/*string price = GameController.PurchaseController.GetPrice("ballblast.package.cannon." + this._currentCanonItem.CanonId);
 				if (!price.Equals(string.Empty))
 				{
 					this.TextPrice.text = price;
-				}
+				}*/
 			}
 			else
 			{

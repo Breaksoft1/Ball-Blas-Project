@@ -4,8 +4,9 @@ using UnityEngine;
 using UnityEngine.Purchasing;
 using UnityEngine.Purchasing.Extension;
 
-public class PurchaseController : BaseController, IStoreListener
+public class PurchaseController : BaseController//, IStoreListener
 {
+	/*
 	private void Start ()
 	{
 		if (PurchaseController.m_StoreController == null) {
@@ -199,5 +200,5 @@ public class PurchaseController : BaseController, IStoreListener
 
 	private static IExtensionProvider m_StoreExtensionProvider;
 
-	private bool m_PurchaseInProgress;
+	private bool m_PurchaseInProgress;*/
 }
